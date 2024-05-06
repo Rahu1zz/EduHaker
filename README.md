@@ -1,10 +1,11 @@
-This is a demo that showcases using CopilotKit to build a simple Todo app.
+# CopilotQuiz: A Dynamic Quiz Application
+ ## CopilotQuiz is a meticulously designed quiz application built with CopilotKit, a cutting-edge development toolkit. This project aims to provide users with an immersive and interactive quiz-taking experience while leveraging the power of CopilotKit's advanced features.
 
-## Deploy with Vercel
-
-To deploy with Vercel, click the button below:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCopilotKit%2Ftodo-demo&env=NEXT_PUBLIC_COPILOT_CLOUD_API_KEY&project-name=copilotkit-todo-demo&repository-name=copilotkit-todo-demo)
+## Features
+- Dynamic Quizzes: Create and take quizzes on a wide range of topics, from general knowledge to specific subjects.
+- Adaptive Difficulty: CopilotQuiz intelligently adjusts question difficulty based on user performance, ensuring an optimal learning experience.
+- Real-time Feedback: Receive instant feedback on quiz answers, with detailed explanations for each question.
+- Multi-platform Support: Enjoy seamless quiz-taking across various devices, including desktops, tablets, and mobile phones.
 
 ## Add your OpenAI API key
 
